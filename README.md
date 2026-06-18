@@ -2,7 +2,7 @@
 
 Projeto de laboratório de segurança de redes, implementado em **Cisco Packet Tracer**, numa topologia *hub-and-spoke* com firewall ASA, SSL Clientless VPN e VPN IPsec site-to-site.
 
-![Topologia da rede](topologia.png)
+![Topologia da rede](Topologia.png)
 
 ## Visão geral
 
