@@ -4,7 +4,7 @@ Cenário **hub-and-spoke** que interliga duas delegações (Lisboa e Porto) e um
 
 ## Topologia
 
-![Topologia da rede](topologia.png)
+![Topologia da rede](Topologia.png)
 
 O **Router5**, no Datacenter, é o nó central (*hub*) ao qual se ligam as duas LANs (*spokes*) por ligações de trânsito. Uma firewall **Cisco ASA** separa toda a rede interna do exterior, e um router **ISP** simula a rede externa/Internet.
 
